@@ -1,0 +1,57 @@
+body {
+    width: 970px;
+    background-color: blue;
+}
+
+h1 {
+    color: white;
+    background-color: red;
+    border-radius: 15px;
+    padding: 20px;
+}
+
+
+#navigation {
+    background-color: #138D75;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    float: left;
+    color: white;
+}
+
+#content {
+    background-color: #000099;
+    padding: 10px;
+    border-radius: 15px;
+    display: inline-block;
+    float: right;
+    width: 70%;
+    margin-bottom: 10px;
+    color: white;
+}
+
+h2, p {
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    color: black;
+}
+
+.contentLi {
+    padding-top: 10px;
+}
+
+.purpleText {
+    color: yellow;
+}
+
+#footer {
+    clear: both;
+    background-color: grey;
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+}
