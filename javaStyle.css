@@ -10,9 +10,12 @@ h1 {
     padding: 20px;
 }
 
+a {
+    color: #48C9B0;
+}
 
 #navigation {
-    background-color: #138D75;
+    background-color: #0E6655;
     padding: 10px;
     border-radius: 15px;
     display: inline-block;
@@ -37,7 +40,6 @@ h2, p {
 
 ul {
     margin: 0px;
-    color: black;
 }
 
 .contentLi {
@@ -45,7 +47,7 @@ ul {
 }
 
 .purpleText {
-    color: yellow;
+    color: purple;
 }
 
 #footer {
